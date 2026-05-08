@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\models\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:models\\diningtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\controllers\\diningtablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:controllers\\diningtablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|c:\\users\\user1\\documents\\daniel katsarov 9 11b\\\u043E\u043E\u043F\\asp_proekt\\asp_reservacii_3_pr\\data\\migrations\\20260428082040_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9859110-F207-F7CC-179F-1A674DC1BEFE}|ASP_Reservacii_3_pr.csproj|solutionrelative:data\\migrations\\20260428082040_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T06:01:15.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-08T05:57:45.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T05:37:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:19:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:17:30.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiningTable.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\DiningTable.cs",
+              "RelativeDocumentMoniker": "Models\\DiningTable.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\DiningTable.cs",
+              "RelativeToolTip": "Models\\DiningTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:18:08.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:19:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:23:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Views\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservations\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:28:56.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiningTablesController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\DiningTablesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiningTablesController.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\DiningTablesController.cs",
+              "RelativeToolTip": "Controllers\\DiningTablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:22:01.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:21:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260428082040_Firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Data\\Migrations\\20260428082040_Firstmig.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20260428082040_Firstmig.cs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\Daniel Katsarov 9 11b\\\u041E\u041E\u041F\\ASP_Proekt\\ASP_Reservacii_3_pr\\Data\\Migrations\\20260428082040_Firstmig.cs",
+              "RelativeToolTip": "Data\\Migrations\\20260428082040_Firstmig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:20:41.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
